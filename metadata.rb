@@ -1,3 +1,4 @@
+name		 "php-cs-fixer"
 maintainer       "Protec Innovations"
 maintainer_email "dev@protecinnovations.co.uk"
 license          "All rights reserved"
